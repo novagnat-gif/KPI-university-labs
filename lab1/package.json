@@ -1,0 +1,25 @@
+{
+  "name": "kpi-unversity-labs",
+  "version": "1.0.0",
+  "description": "Лабораторні роботи",
+  "homepage": "https://github.com/novagnat-gif/KPI-university-labs#readme",
+  "bugs": {
+    "url": "https://github.com/novagnat-gif/KPI-university-labs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/novagnat-gif/KPI-university-labs.git"
+  },
+  "license": "ISC",
+  "author": "Andrii Hnatenko",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.12.0",
+    "globals": "^17.13.0"
+  }
+}
